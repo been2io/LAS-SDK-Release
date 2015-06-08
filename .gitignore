@@ -1,0 +1,13 @@
+*.iml
+.idea
+*.rb
+
+.DS_Store
+
+
+# Xcode
+xcuserdata
+xcshareddata
+*workspace
+Podfile.lock
+Pods
